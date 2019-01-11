@@ -1,0 +1,5 @@
+{
+  "baseURL": "lemur.domain.com",
+  "baseAPI": "/api/1",
+  "ownerEMAIL": "youremail@domain.com"
+}
